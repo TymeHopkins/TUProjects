@@ -1,4 +1,4 @@
-# The University of Tulsa ECE Course Projects
+# The University of Tulsa ECE Course Material
 The following list contains course projects from The University of Tulsa, which can be found in this repository.
 
 * ECE-2063-01: Computer Organization/Microprocess
@@ -7,4 +7,3 @@ The following list contains course projects from The University of Tulsa, which 
 * ECE-4053-01: Classical Control Theory
 * ECE-5413-01: Neural Networks
 * ECE-4073-01: Information and Communication Systems
-* ds clds cvkdjv dl
