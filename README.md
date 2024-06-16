@@ -1,6 +1,6 @@
-# The University of Tulsa ECE Course Source Code
+# The University of Tulsa ECE Course Projects
 ## Overview
-The following list contains course projects from The University of Tulsa, which can be found in this repository.
+The following list contains course projects from ECE department at The University of Tulsa, which can be found in this repository.
 
 * ECE-2063-01: Computer Organization/Microprocess
 * ECE-4263-01: Microprocess Digital Design
