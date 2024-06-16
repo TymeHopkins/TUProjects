@@ -1,4 +1,4 @@
-# The University of Tulsa ECE Course Projects
+# The University of Tulsa ECE Department Course Projects
 ## Overview
 The following list contains the names of the courses from ECE department at The University of Tulsa with project source code.
 
