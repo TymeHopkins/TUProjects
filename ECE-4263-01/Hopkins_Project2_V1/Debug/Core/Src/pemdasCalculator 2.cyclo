@@ -1,0 +1,7 @@
+../Core/Src/pemdasCalculator.c:20:6:pushOperand	1
+../Core/Src/pemdasCalculator.c:28:8:popOperand	1
+../Core/Src/pemdasCalculator.c:36:6:pushOperator	1
+../Core/Src/pemdasCalculator.c:44:6:popOperator	1
+../Core/Src/pemdasCalculator.c:52:5:precedence	9
+../Core/Src/pemdasCalculator.c:67:8:calculate	40
+../Core/Src/pemdasCalculator.c:133:6:updateScreen	1

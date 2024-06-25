@@ -1,0 +1,2 @@
+../Core/Src/calculator.c:8:6:getTitleScreen	16	static
+../Core/Src/calculator.c:55:6:getShiftScreen	16	static

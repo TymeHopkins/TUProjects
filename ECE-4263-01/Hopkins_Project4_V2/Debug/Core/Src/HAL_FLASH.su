@@ -1,0 +1,2 @@
+../Core/Src/HAL_FLASH.c:8:6:writeDataToFlash	32	static
+../Core/Src/HAL_FLASH.c:21:6:readDataFromFlash	24	static

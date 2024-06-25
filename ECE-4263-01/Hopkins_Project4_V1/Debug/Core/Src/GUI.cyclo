@@ -1,0 +1,8 @@
+../Core/Src/GUI.c:20:6:getTitleScreen	1
+../Core/Src/GUI.c:67:6:getShiftScreen	1
+../Core/Src/GUI.c:114:6:displayInput	1
+../Core/Src/GUI.c:122:6:correctPassword	1
+../Core/Src/GUI.c:140:6:incorrectPassword	1
+../Core/Src/GUI.c:161:6:savedPassword	1
+../Core/Src/GUI.c:180:6:enterPassword	1
+../Core/Src/GUI.c:206:6:screenClr	1

@@ -1,0 +1,8 @@
+../Core/Src/GUI.c:20:6:getTitleScreen	16	static
+../Core/Src/GUI.c:67:6:getShiftScreen	16	static
+../Core/Src/GUI.c:114:6:displayInput	16	static
+../Core/Src/GUI.c:122:6:correctPassword	16	static
+../Core/Src/GUI.c:140:6:incorrectPassword	16	static
+../Core/Src/GUI.c:161:6:savedPassword	16	static
+../Core/Src/GUI.c:180:6:enterPassword	16	static
+../Core/Src/GUI.c:206:6:screenClr	8	static

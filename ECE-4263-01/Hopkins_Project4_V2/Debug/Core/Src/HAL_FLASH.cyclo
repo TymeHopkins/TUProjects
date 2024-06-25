@@ -1,0 +1,2 @@
+../Core/Src/HAL_FLASH.c:8:6:writeDataToFlash	2
+../Core/Src/HAL_FLASH.c:21:6:readDataFromFlash	2
