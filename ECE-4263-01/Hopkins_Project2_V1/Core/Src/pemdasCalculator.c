@@ -1,3 +1,5 @@
+// PEMDAS calculator mathematical logic and operations credit due to https://github.com/yousefkotp/PEMDAS-Calculator/tree/main
+
 #include "ili9163.h"
 #include <stdio.h>
 #include <stdlib.h>
